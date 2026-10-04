@@ -1,5 +1,3 @@
-# Saada_Shaban
-My personal Profile
 # 👋 Hi, I'm Saada!
 
 <p align="center">
